@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-image: linear-gradient(to right top, #2b69dc, #007ee5, #0092e9, #00a3e8, #00b3e6, #19bee7, #32c9e7, #49d3e7, #4eddea, #55e6ed, #5ef0ef, #69f9f0);
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(122, 189, 233);
+    color: rgb(255, 255, 255);
+}
